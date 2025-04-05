@@ -1,0 +1,11 @@
+credit_id,client_id,type_credit,montant,duree_mois,statut,date_ouverture
+C001,CL001,Conso,5000,24,Actif,2022-01-10
+C002,CL001,Immobilier,150000,240,Actif,2020-06-15
+C003,CL002,Auto,12000,36,Clos,2021-03-20
+C004,CL003,Conso,3000,12,Actif,2023-07-01
+C005,CL004,Immobilier,200000,300,Actif,2019-11-30
+C006,CL002,Conso,4500,18,Clos,2020-01-05
+C007,CL005,Auto,10000,48,Actif,2022-10-22
+C008,CL003,Auto,8000,36,Actif,2021-12-10
+C009,CL006,Conso,6000,24,Clos,2020-08-18
+C010,CL004,Conso,4000,12,Actif,2023-01-01
